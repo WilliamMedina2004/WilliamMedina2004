@@ -28,13 +28,6 @@ Share studies, projects, and tools here on GitHub.
 
 📫 Connect with Me
 
-🌍 LinkedIn
- (add your profile link)
-
-✉️ Email: (add your professional email)
-
-🔒 "Security is not a product, but a process."
-
 
 
 # Stats
