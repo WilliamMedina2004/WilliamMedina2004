@@ -26,7 +26,6 @@ Contribute to open-source projects in information security.
 
 Share studies, projects, and tools here on GitHub.
 
-📫 Connect with Me
 
 
 
